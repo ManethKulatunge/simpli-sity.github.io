@@ -3913,3 +3913,24 @@ input, select, textarea {
 			}
 
 		}
+
+		.socialMediaButtons .buttons {
+			display: inline;
+			padding: 15px; 
+	}
+
+	.menuinner{
+		background-color: white;
+		color: white;
+	}
+
+	#header.menuinner{
+		background-color: white;
+		padding: 5px;
+	}
+
+	.wrapper{
+		background-color: white;
+	}
+
+	
